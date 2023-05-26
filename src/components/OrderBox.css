@@ -1,0 +1,33 @@
+.order {
+    background-color: rgb(251, 188, 4);
+    width: 350px;
+    height: 300px;
+    justify-content: bottom;
+    position: relative;
+    display: flex;
+    text-align: center;
+    display: grid;
+    grid-template-rows: auto 1fr ;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px rgb(151, 136, 41);
+
+}
+
+.top {
+    width: 350px;
+    position: absolute;
+    top: 0;
+    left: 175;
+}
+
+.middle{
+    position: absolute;
+    top: 60px;
+}
+
+.bottom {
+    width: 350px;
+    position: absolute;
+    top: 250px;
+    padding-left: 70px;
+}

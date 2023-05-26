@@ -1,0 +1,10 @@
+head{
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    max-width: auto;
+    /* background-color: rgb(230, 230, 230) .5; */
+    /* border: black; */
+    margin-bottom: 5vh;
+}
